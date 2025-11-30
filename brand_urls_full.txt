@@ -1,0 +1,509 @@
+# Lista completa de marcas de cosmeticos capilares
+# Formato: Marca	Marketplace	URL
+
+1Ka Hair	Beleza na Web	https://www.stilohair.com.br/marca/1ka-hair.html
+A-line	Beleza na Web	https://alinebrasilcosmetics.com.br/loja/
+Abela Cosmetics	Beleza na Web	https://www.lojaabelacosmetics.com/produtos/?mpage=3
+Abelha Rainha	Mercado Livre	https://www.abelharainha.com.br/abelha-rainha/cabelos
+Acquaflora	Beleza na Web	https://www.acquafloracosmeticos.com.br/
+Adlux Cosmeticos	Beleza na Web	https://adluxmg.com.br/
+Agilise Cosmeticos	Mercado Livre	https://agilisecosmeticos.com.br/
+All Nature	Mercado Livre	https://www.allnature.com.br/
+Alpha Line	Beleza na Web	https://alphalinecosmeticos.com.br/
+Alphahall Cosmetiques	Beleza na Web	https://www.alphahall.com.br/loja/busca.php?loja=1193840&palavra_busca=
+Alva	Mercado Livre	https://alvapersonalcare.com.br/
+Amahka Paris	Beleza na Web	https://www.amakhaparis.com.br/produtos-para-cabelo
+Amazonico Care	Beleza na Web	https://amazonicocare.com.br/collections/all
+Amend Cosmeticos	Beleza na Web	https://www.amend.com.br/
+American Desire	Beleza na Web	https://www.americandesire.com.br/
+Aneethun	Beleza na Web	https://www.aneethun.com/
+Anuar Cosmeticos	Beleza na Web	https://anuar.com.br/loja/
+Apice Cosmeticos	Beleza na Web	https://www.apicecosmeticos.com.br/
+Aramath Cosmeticos	Beleza na Web	https://aramath.com.br/
+Aromia Cosmeticos	Beleza na Web	https://aromia.com.br/
+Arvensis Cosmeticos Naturais	Beleza na Web	https://arvensiscosmeticos.com.br/collections/produtos
+Ativare	Beleza na Web	https://www.prolabcosmetics.com.br/ativare
+Ativo Natural	Beleza na Web	https://ativonatural.com.br/c-cosmeticos
+Azenka	Beleza na Web	https://www.azenka.com.br/cosmeticos/cabelo
+B. Hulmann	Beleza na Web	https://bhulmann.com.br/collections/all
+B.O.B. Bars	Beleza na Web	https://www.usebob.com.br/collections/cabelo
+B.URB	Beleza na Web	https://www.newoldman.com.br/cabelo-masculino
+Balai	Beleza na Web	https://mundobalai.com.br/collections/
+Barba De Macho	Mercado Livre	https://barbademacho.com.br/
+Barba de Respeito	Beleza na Web	https://barbaderespeito.com.br/
+Barba de Urso	Beleza na Web	https://barbadeurso.com.br/
+Barba Robusta	Beleza na Web	https://www.barbarobusta.com.br/
+Barba Urbana	Mercado Livre	https://www.barbaurbana.com.br/
+BarroMinas	Mercado Livre	https://lojabarrominas.com.br/
+Baume	Beleza na Web	https://baume.com.br/
+Be Belle	Beleza na Web	https://www.bebelle.com.br/
+Beauty Secret	Beleza na Web	https://www.beautysecret.com.br/
+BeautyColor	Beleza na Web	https://beautycolorcompany.com.br/
+Bebe Natureza	Mercado Livre	https://www.bebenatureza.com.br/
+Bedalm Pharma do Brasil	Beleza na Web	https://www.bedalm.com.br/
+Begonia Cosmeticos	Beleza na Web	https://begoniacosmeticos.com.br/
+Belcazzi Profissional	Beleza na Web	https://www.belcazzi.com.br/
+Beleza Express	Beleza na Web	https://belezaexpress.com.br/
+Beleza Natural	Beleza na Web	https://www.bncachos.com.br/
+Beleza Ruiva	Beleza na Web	https://belezaruiva.com.br/
+Belkit	Beleza na Web	https://belkit.com.br/
+Belletonn	Beleza na Web	https://www.belletonn.com.br/
+Belliz	Beleza na Web	https://www.belliz.com.br/
+Belliz Company	Mercado Livre	https://www.bellizcompany.com.br/
+Belofio Professional	Beleza na Web	https://belofio.com.br/
+Bemgloria	Beleza na Web	https://bemgloria.com.br/
+Bendita Canfora	Beleza na Web	https://benditacanfora.com.br/
+Beto Bita	Mercado Livre	https://www.betobita.com.br/
+Beudose	Beleza na Web	https://beudose.com.br/
+Bio Extratus	Beleza na Web	https://www.bioextratus.com.br/
+Bio Instinto	Beleza na Web	https://www.bioinstinto.com.br/
+Biocale	Beleza na Web	https://biocale.com.br/
+Biofios Profissional	Beleza na Web	https://www.biofios.com.br/
+Biotipo Brazil	Beleza na Web	https://www.biotipobrazil.com.br/
+Black Beauty	Beleza na Web	https://www.blackbeautyoficial.com.br/
+Blueken Professional	Mercado Livre	https://loja.blueken.com.br/
+Blu Magic	Beleza na Web	https://blumagic.com.br/
+Bonita por Natureza	Beleza na Web	https://bonitapornatureza.com.br/
+Borabella	Beleza na Web	https://borabella.com.br/
+Bothanico Hair	Mercado Livre	https://www.bothanicocosmeticos.com.br/produtos
+Brae	Beleza na Web	https://braehaircare.com/
+Braliz	Beleza na Web	https://braliz.com.br/
+Bravet	Mercado Livre	https://www.bravet.com.br/
+Bravir	Beleza na Web	https://bravir.com.br/
+Breany Liss	Beleza na Web	https://breanyliss.com.br/
+Br&Co	Beleza na Web	https://www.brandaocompany.com.br/
+Brscience Profissional	Beleza na Web	https://brscience.com.br/
+Butterfly	Mercado Livre	https://www.butterflycosmeticosemaquiagem.com/
+C/ALMA	Beleza na Web	https://calmabeleza.com.br/
+Cadiveu Professional	Beleza na Web	https://cadiveu.com.br/
+Capicilin	Beleza na Web	https://capicilin.com.br/
+Care for You	Beleza na Web	https://careforyoucosmeticos.com.br/
+Casa da India	Beleza na Web	https://casadaindia.com.br/
+Cavalera	Mercado Livre	https://www.cavalera.com.br/
+Charmelle	Mercado Livre	https://www.requintehaircosmeticos.com.br/marca/charmelle-cosmeticos.html
+Charming	Mercado Livre	https://www.charming.com.br/
+Che Figo	Beleza na Web	https://chefigo.com.br/
+Chons	Beleza na Web	https://chons.com.br/
+Christine Adans	Beleza na Web	https://www.christineadans.com.br/
+Cia da Barba	Beleza na Web	https://ciadabarba.com.br/
+C.Kamura	Beleza na Web	https://ckamura.com.br/
+Classe A	Mercado Livre	https://www.classeacosmeticos.com.br/
+Clear	Beleza na Web	https://www.clearhaircare.com.br/
+Cless	Beleza na Web	https://cless.com.br/
+Clorofitum	Beleza na Web	https://clorofitum.com.br/
+Coiffer	Mercado Livre	https://coiffercosmeticos.com.br/
+Color Affair	Beleza na Web	https://coloraffair.com.br/
+Color Pro	Beleza na Web	https://colorprocosmeticos.com.br/
+Corpo Dourado	Beleza na Web	https://www.corpoclin.com.br/
+Cosmeceuta	Beleza na Web	https://cosmeceuta.com.br/
+Cosmobeauty	Mercado Livre	https://www.cosmobeauty.com.br/
+Cris Dios Organics	Beleza na Web	https://crisdiosorganics.com.br/
+Crownus Professional	Beleza na Web	https://crownus.com.br/
+Curly Care	Beleza na Web	https://curlycare.com.br/
+Daare	Beleza na Web	https://daarecosmeticos.com.br/
+DaBelle Hair	Beleza na Web	https://www.dabelle.com.br/
+Dacca Professional	Beleza na Web	https://daccaprofessional.com.br/
+Dalsan Cosmeticos	Beleza na Web	https://dalsan.com.br/
+Dama Hair	Beleza na Web	https://damahair.com.br/
+De Benguela	Beleza na Web	https://debenguela.com.br/
+De Sirius	Mercado Livre	https://desirius.com.br/
+Dermare	Beleza na Web	https://dermare.com.br/
+Descomplica Curvas	Beleza na Web	https://descomplicacurvas.com.br/
+Detagold	Mercado Livre	https://detagold.com.br/
+Detra Hair Cosmetics	Beleza na Web	https://detra.com.br/
+Dhonna	Beleza na Web	https://dhonnacosmeticos.com.br/
+Diamante Profissional	Mercado Livre	https://diamanteprofissional.com.br/
+Dicolore	Mercado Livre	https://dicolore.com.br/
+Diliza Professional	Beleza na Web	https://diliza.com.br/
+Dimension	Mercado Livre	https://www.dimensioncosmeticos.com.br/
+Divine Meches	Beleza na Web	https://divinemeches.com.br/
+Divcom	Mercado Livre	https://www.divcom.com.br/
+DO.HA	Beleza na Web	https://doha.com.br/
+Dom Pelo	Mercado Livre	https://dompelo.com.br/
+Don Alcides	Beleza na Web	https://donalcides.com.br/
+Doona	Beleza na Web	https://doona.com.br/
+Doono	Beleza na Web	https://doono.com.br/
+Dr Jack	Beleza na Web	https://drjack.com.br/
+Dr. Seed	Beleza na Web	https://drseed.com.br/
+Duetto Professional	Mercado Livre	https://duettocosmeticos.com.br/
+Dyusar	Mercado Livre	https://dyusar.com.br/
+Eae Cosmeticos	Mercado Livre	https://eaecompras.com.br/
+Ecosix Professional	Beleza na Web	https://ecosix.com.br/
+Ecosmetics	Beleza na Web	https://ecosmetics.com.br/
+Eico	Beleza na Web	https://eico.com.br/
+EIZZ	Beleza na Web	https://eizz.com.br/
+Ekilibre Amazonia	Beleza na Web	https://ekilibre.com.br/
+Ekobe	Beleza na Web	https://ekobe.com.br/
+Elfa 4men	Mercado Livre	https://elfacosmeticos.com.br/
+Eliana Mendes	Beleza na Web	https://elianamendescosmeticos.com.br/
+Elisafer	Beleza na Web	https://www.elisafer.com.br/
+Emah Hair Care	Beleza na Web	https://emahhaircare.com.br/
+Embaixador	Mercado Livre	https://embaixadorcosmeticos.com.br/
+Enzz Cosmetics	Beleza na Web	https://enzzcosmetics.com.br/
+Eri Haircare	Beleza na Web	https://erihaircare.com.br/
+Erven Cosmetics	Beleza na Web	https://ervencosmetics.com.br/
+Ervik	Beleza na Web	https://ervikcosmeticos.com.br/
+Escovas Evas	Beleza na Web	https://evas.com.br/
+Essencialmente Bela	Beleza na Web	https://essencialmentebela.com.br/
+Essencials Profissional	Beleza na Web	https://essencialscosmeticos.com.br/
+Essendy	Beleza na Web	https://essendy.com.br/
+Estoril Cosmeticos	Mercado Livre	https://estorilcosmeticos.com.br/
+Everlong	Beleza na Web	https://everlong.com.br/
+Exo Hair	Beleza na Web	https://exohair.com.br/
+Expresso Mata Atlantica	Mercado Livre	https://expressomataatlantica.com.br/
+F-Men Cosmetics	Beleza na Web	https://f-men.com.br/
+Fabulosa Lizz	Beleza na Web	https://fabulosalizz.com.br/
+Facinatus Cosmeticos	Mercado Livre	https://facinatus.com.br/
+Farmaervas	Beleza na Web	https://farmaervas.com.br/
+Fashion Gold	Beleza na Web	https://fashiongold.com.br/
+Fast Escova	Beleza na Web	https://fastescova.com.br/
+Fattore	Mercado Livre	https://fattorecosmeticos.com.br/
+Feito pra Voce	Beleza na Web	https://feitopravoce.com.br/
+Felithi Pro	Beleza na Web	https://felithi.com.br/
+Felps Professional	Beleza na Web	https://felps.com.br/
+FGZ Professional	Beleza na Web	https://fgzprofessional.com.br/
+Fit Cosmetics	Beleza na Web	https://fitcosmetics.com.br/
+Flama	Beleza na Web	https://flamacosmeticos.com.br/
+Flora Pura	Mercado Livre	https://florapura.com.br/
+Folha Nativa Cosmeticos	Beleza na Web	https://folhanativa.com.br/
+For Beauty	Beleza na Web	https://forbeautyprofessional.com.br/
+Force de Frizz	Beleza na Web	https://forcedefrizz.com.br/
+Forever Liss Professional	Beleza na Web	https://foreverliss.com.br/
+Formalisa	Beleza na Web	https://formalisa.com.br/
+Fox For Men	Mercado Livre	https://foxformen.com.br/
+Fox Professional	Beleza na Web	https://foxprofessional.com.br/
+Fusion	Mercado Livre	https://fusioncosmetics.com.br/
+G.Hair	Beleza na Web	https://ghair.com.br/
+Gigita	Beleza na Web	https://gigita.com.br/
+Girass	Beleza na Web	https://girass.com.br/
+Glatten Professional	Beleza na Web	https://glatten.com.br/
+GO.	Beleza na Web	https://gohair.com.br/
+Gota Dourada	Beleza na Web	https://gotadourada.com.br/
+Gotas Verdes	Beleza na Web	https://gotasverdes.com.br/
+Grandha	Beleza na Web	https://grandha.com.br/
+Grankera	Mercado Livre	https://grankera.com.br/
+Grecin	Mercado Livre	https://grecin.com.br/
+Griffus	Beleza na Web	https://griffus.com.br/
+Habito Cosmeticos	Mercado Livre	https://habitocosmeticos.com.br/
+Hair Extrattus	Beleza na Web	https://hairextrattus.com.br/
+Haissa Profissional	Beleza na Web	https://haissa.com.br/
+Hamarys Cosmetic	Beleza na Web	https://hamaryscosmetic.com.br/
+Hanna Professional	Beleza na Web	https://hannaprofessional.com.br/
+Hanova	Beleza na Web	https://hanova.com.br/
+Haskell	Beleza na Web	https://haskellcosmeticos.com.br/
+HBeauty Professional	Beleza na Web	https://hbeautyprofessional.com.br/
+Hboni	Mercado Livre	https://hboni.com.br/
+Hi Hair Care	Beleza na Web	https://hihaircare.com.br/
+Hiato Fitocosmeticos	Beleza na Web	https://hiatofitocosmeticos.com.br/
+Hidralise	Mercado Livre	https://hidralise.com.br/
+Hidraliso	Beleza na Web	https://hidraliso.com.br/
+Hidratei	Beleza na Web	https://hidrateicosmetics.site/product-category/produtos/
+Hobety Profissional	Beleza na Web	https://hobety.com.br/
+Hoka Professional	Beleza na Web	https://hokaprofessional.com.br/
+Homme Marine	Mercado Livre	https://hommemarine.com.br/
+Human	Beleza na Web	https://humanhaircare.com.br/
+iLike Professional	Beleza na Web	https://ilike.com.br/
+Imabelle	Beleza na Web	https://imabelle.com.br/
+Imagination	Beleza na Web	https://imaginationcosmeticos.com.br/
+Imunehair	Beleza na Web	https://imunehair.com.br/
+In Voga	Beleza na Web	https://invogaprofessional.com.br/
+InBlue Professional	Beleza na Web	https://inblueprofessional.com.br/
+Inoar	Beleza na Web	https://inoar.com.br/
+Instinto Natural	Beleza na Web	https://instintonatural.com.br/
+Iorus Professional	Beleza na Web	https://iorus.com.br/
+Issue Professional	Beleza na Web	https://issueprofessional.com.br/
+Itallian Hairtech	Beleza na Web	https://itallianhairtech.com.br/
+Iti Hair Profissional	Beleza na Web	https://itiprofissional.com.br/
+IX1975	Beleza na Web	https://ix1975.com.br/
+Jacques Janine Professionnel	Beleza na Web	https://jacquesjanine.com.br/
+Japinha Cosmeticos	Beleza na Web	https://japinhacosmeticos.com.br/
+Jyothi Cosmeticos	Beleza na Web	https://jyothi.com.br/
+K-Bell	Mercado Livre	https://www.kbell.com.br/
+Kadma Kweeze	Mercado Livre	https://kadmakweeze.com.br/
+Kah-Noa	Beleza na Web	https://kahnoa.com.br/
+Kali Cosmetics	Beleza na Web	https://kalicosmetics.com.br/
+Kamaleao Color	Beleza na Web	https://kamaleaocolor.com.br/
+Karina	Beleza na Web	https://www.karinacosmeticos.com.br/
+Kelma	Beleza na Web	https://kelma.com.br/
+Kelse Pro Skin	Beleza na Web	https://kelseproskin.com.br/
+Keragen	Beleza na Web	https://www.skafe.com.br/
+Keraton	Beleza na Web	https://kera.com.br/
+Khalili For Woman	Beleza na Web	https://khaliliforwoman.com.br/
+Kiria Hair Professional	Beleza na Web	https://kiriahair.com.br/
+Kiron Cosmeticos	Beleza na Web	https://kironcosmeticos.com.br/
+KNUT	Beleza na Web	https://knut.com.br/
+Kostume	Mercado Livre	https://kostume.com.br/
+Kpriche Professional	Beleza na Web	https://kpriche.com.br/
+K.Pro	Beleza na Web	https://kpro.com.br/
+L&A	Mercado Livre	https://leacosmeticos.com.br/
+La Cosmeticos	Mercado Livre	https://lacosmeticos.com.br/
+La Malagueta Cosmeticos	Beleza na Web	https://lamalagueta.com.br/
+Laby	Beleza na Web	https://laby.com.br/
+Lacan	Beleza na Web	https://lacan.com.br/
+Lagares Profissional	Mercado Livre	https://lagaresprofissional.com.br/
+Lakkoa	Mercado Livre	https://lakkoa.com.br/
+LaMine	Beleza na Web	https://laminecosmeticos.com.br/
+Lana Brasiles	Beleza na Web	https://lanabrasiles.com.br/
+Larree	Beleza na Web	https://larree.com.br/
+LOccitane au Bresil	Mercado Livre	https://www.loccitaneaubresil.com/
+LCS Hair Care	Beleza na Web	https://lcshaircare.com.br/
+Le Charmes Cosmeticos	Beleza na Web	https://lecharmes.com.br/
+Le Clique	Beleza na Web	https://leclique.com.br/
+Le Pro Cosmetics	Beleza na Web	https://leprocosmetics.com.br/
+Leader Cam	Beleza na Web	https://leadercam.com.br/
+Leels	Beleza na Web	https://leels.com.br/
+Left Cosmeticos	Beleza na Web	https://leftcosmeticos.com.br/
+LG Terapia Capilar	Beleza na Web	https://lgterapiacapilar.com.br/
+Light Hair Professional	Beleza na Web	https://lighthair.com.br/
+Limme Cosmeticos	Beleza na Web	https://limmecosmeticos.com.br/
+Lion	Beleza na Web	https://lion.com.br/
+Liso de Dalia	Beleza na Web	https://lisodedalia.com.br/
+Live Aloe	Mercado Livre	https://livealoe.com.br/
+Living Proof	Beleza na Web	https://livingproof.com.br/
+Lizz Professional	Beleza na Web	https://lizz.com.br/
+LOF Professional	Beleza na Web	https://lofprofissional.com.br/
+Lokenzzi	Beleza na Web	https://lokenzzi.com.br/
+Lola From Rio	Beleza na Web	https://www.lolacosmetics.com.br/cabelos
+London Cosmeticos	Beleza na Web	https://londoncosmeticos.com.br/
+LOOREN	Beleza na Web	https://loorencosmeticos.com.br/
+Lovenze Professional	Beleza na Web	https://lovenze.com.br/
+Lowell	Beleza na Web	https://lowell.com.br/
+Lucys	Mercado Livre	https://lucys.com.br/
+Luminositta Professional	Beleza na Web	https://luminositta.com.br/
+Lunna Shop	Beleza na Web	https://lunnashop.com.br/
+M.lore Cosmetics	Beleza na Web	https://mlorecosmetics.com.br/
+MAB Marco Antonio de Biaggi	Beleza na Web	https://mab.com.br/
+Macpaul Professional	Beleza na Web	https://macpaul.com.br/
+Madamelis Profissional	Beleza na Web	https://madamelis.com.br/
+Magic Beauty	Beleza na Web	https://magicbeauty.com.br/
+Magic Color	Beleza na Web	https://magiccolor.com.br/
+Magic Science	Mercado Livre	https://magicscience.com.br/
+Mahair Cosmetics	Beleza na Web	https://mahair.com.br/
+Mahogany	Mercado Livre	https://mahogany.com.br/
+Mairibel	Mercado Livre	https://mairibelcosmeticos.com.br/
+Malina Beauty	Beleza na Web	https://malinabeauty.com.br/
+Marco Boni	Beleza na Web	https://marcoboni.com.br/
+Mari Morena	Beleza na Web	https://marimorena.com.br/
+Maria Escandalosa	Beleza na Web	https://mariaescandalosa.com.br/
+Maria Head Hair Spa	Beleza na Web	https://mariaheadandhairspa.com.br/
+Mary Life	Beleza na Web	https://marylife.com.br/
+Maxilluring	Beleza na Web	https://maxilluring.com.br/
+Maxton	Beleza na Web	https://maxton.com.br/
+Maycrene	Mercado Livre	https://maycrene.com.br/
+Mazavie Cosmetics	Beleza na Web	https://mazavie.com.br/
+Med For You Professional	Beleza na Web	https://medforyou.com.br/
+Medicasp	Mercado Livre	https://medicasp.com.br/
+Mega Bell	Beleza na Web	https://megabell.com.br/
+Mega Profissional	Beleza na Web	https://megaprofissional.com.br/
+Meidu	Mercado Livre	https://meidu.com.br/
+Mel Black	Beleza na Web	https://melblack.com.br/
+Menina e Mulher Cosmeticos	Beleza na Web	https://meninaemulhercosmeticos.com.br/
+Meraki	Beleza na Web	https://meraki.com.br/
+Mestre dos Cachos	Beleza na Web	https://mestredoscachos.com.br/
+Meu Q	Beleza na Web	https://meuq.com.br/
+Midori Profissional	Beleza na Web	https://midoricosmeticos.com.br/
+Mio Capelli	Beleza na Web	https://miocapelli.com.br/
+Mirum Kosmetikos	Beleza na Web	https://mirum.com.br/
+Mojo	Beleza na Web	https://mojo.com.br/
+Monohair Professional	Beleza na Web	https://monohair.com.br/
+Mondial	Beleza na Web	https://mondial.com.br/
+MQ Beauty	Beleza na Web	https://mqbeauty.com.br/
+MQ Professional	Beleza na Web	https://mqprofessional.com.br/
+Msa Cosmeticos	Mercado Livre	https://msacosmeticos.com.br/
+Muriel	Beleza na Web	https://muriel.com.br/
+Mutari	Beleza na Web	https://mutari.com.br/
+My Brush	Beleza na Web	https://mybrush.com.br/
+MyHealth	Mercado Livre	https://myhealth.com.br/
+Myphios Professional	Beleza na Web	https://myphios.com.br/
+Naelly ST Professional	Beleza na Web	https://naellyst.com.br/
+Nando Vasconcelos	Beleza na Web	https://nandovasconcelos.com.br/
+NATHYDRAS	Beleza na Web	https://nathydras.com.br/
+Natura	Mercado Livre	https://natura.com.br/
+Natucor	Beleza na Web	https://embelleze.com/marcas/natucor/
+NatuHair	Beleza na Web	https://natuhair.com.br/
+NatuMaxx	Mercado Livre	https://natumaxx.com.br/
+Naturiun	Mercado Livre	https://naturiun.com.br/
+Naturys	Mercado Livre	https://naturys.com.br/
+Neez	Mercado Livre	https://neezprofissional.com.br/
+New Old Man	Beleza na Web	https://newoldman.com.br/
+New Hair	Beleza na Web	https://newhair.com.br/
+Nick & Vick	Beleza na Web	https://nickvick.com.br/
+Niely	Beleza na Web	https://niely.com.br/
+Nivodare Professional	Beleza na Web	https://nivodare.com.br/
+Nordic Smells	Beleza na Web	https://nordicsmells.com.br/
+Noue	Beleza na Web	https://noue.com.br/
+Novex	Beleza na Web	https://embelleze.com/marcas/novex/
+Nuance Professional	Beleza na Web	https://nuanceprofessional.com.br/
+Nuno Cosmeticos Naturais	Beleza na Web	https://nuno.com.br/
+Nupill	Mercado Livre	https://nupill.com.br/
+Nutrat	Beleza na Web	https://nutrat.com.br/
+Nyaliss Beauty	Beleza na Web	https://nyaliss.com.br/
+Nyata Cosmeticos	Beleza na Web	https://nyatacosmeticos.com.br/
+O Boticario	Mercado Livre	https://boticario.com.br/
+O Lobo do Mar	Beleza na Web	https://olobodomar.com.br/
+Obliphica Cosmeticos	Beleza na Web	https://obliphicacosmeticos.com.br/
+Oe Nani	Beleza na Web	https://oenani.com.br/
+Oeje Brazil	Beleza na Web	https://oeje.com.br/
+Okyo	Beleza na Web	https://okyo.com.br/
+Oncosmetic	Mercado Livre	https://oncosmetic.com.br/
+Onixx Brasil	Beleza na Web	https://onixxbrasil.com.br/
+Oriente Life	Beleza na Web	https://orientelife.com.br/
+Ouribel Cosmeticos	Mercado Livre	https://ouribel.com.br/
+OX Cosmeticos	Beleza na Web	https://oxcosmeticos.com.br/
+Oxe Cosmetics	Beleza na Web	https://oxecosmeticos.com.br/
+Paiolla Professional	Beleza na Web	https://paiolla.com.br/
+Pantene	Beleza na Web	https://pantene.com.br/
+Paresi Nature	Beleza na Web	https://paresinature.com.br/
+Patrono	Beleza na Web	https://patrono.com.br/
+Petre Cosmetics	Beleza na Web	https://petrecosmetics.com.br/
+pHAMDA Professional	Beleza na Web	https://phamda.com.br/
+Pharma	Mercado Livre	https://pharma.com.br/
+Pharmacy Botanicals	Beleza na Web	https://pharmacybotanicals.com.br/
+PHK Professional Hair	Beleza na Web	https://phkcosmeticos.com.br/
+Physalis	Mercado Livre	https://physalis.com.br/
+Phytobelle	Mercado Livre	https://phytobelle.com.br/
+Phytoca	Beleza na Web	https://phytoca.com.br/
+Phytogen	Beleza na Web	https://phytogen.com.br/
+Phytoervas	Beleza na Web	https://phytoervas.com.br/
+Plancton	Beleza na Web	https://planctonprofessional.com.br/
+Plattelli Profissional	Beleza na Web	https://plattelli.com.br/
+Pokoloka	Beleza na Web	https://pokoloka.com.br/
+Portier	Beleza na Web	https://portier.com.br/
+Premier Hair	Beleza na Web	https://premierhair.com.br/
+Principia	Mercado Livre	https://principia.com.br/
+Pro Cachos	Mercado Livre	https://procachos.com.br/
+ProArt	Beleza na Web	https://proart.com.br/
+PROBELLE	Beleza na Web	https://probelle.com.br/
+Professional Paris Cosmetics	Beleza na Web	https://professionalparis.com.br/
+Prohair Cosmeticos Profissionais	Beleza na Web	https://prohaircosmeticos.com.br/
+Prohall Cosmetic	Beleza na Web	https://prohallcosmetic.com.br/
+QOD	Beleza na Web	https://qodcity.com.br/
+Quantic Flora	Beleza na Web	https://quanticflora.com.br/
+Raavi	Beleza na Web	https://raavi.com.br/
+Rainha dos Cachos	Beleza na Web	https://rainhadoscachos.com.br/
+Raiz Latina	Beleza na Web	https://raizlatina.com.br/
+Rare Way Cosmeticos	Beleza na Web	https://rarewaycosmeticos.com.br/
+Rauk	Beleza na Web	https://rauk.com.br/
+RAVV	Beleza na Web	https://ravv.com.br/
+Rebeel Professional	Beleza na Web	https://rebeel.com.br/
+Red Iron	Mercado Livre	https://rediron.com.br/
+Redken	Beleza na Web	https://redken.com.br/
+Retro Cosmeticos	Beleza na Web	https://retrocosmeticos.com.br/
+RG Professional	Beleza na Web	https://rgprofessional.com.br/
+Richee Professional	Beleza na Web	https://richee.com.br/
+Rie Salon-Pro	Beleza na Web	https://riesalonpro.com.br/
+Rienza	Beleza na Web	https://rienza.com.br/
+Rigolim Hair & Co	Beleza na Web	https://rigolim.com.br/
+Risa Professional	Beleza na Web	https://risaprofessional.com.br/
+Rivenna Professional	Beleza na Web	https://rivenna.com.br/
+Robson Peluquero	Beleza na Web	https://robsonpeluquero.com.br/
+Roger	Beleza na Web	https://roger.com.br/
+Ros	Beleza na Web	https://ros.com.br/
+Rosa Amazonica	Beleza na Web	https://rosaamazonica.com.br/
+Roswell Club	Beleza na Web	https://roswellclub.com.br/
+Route 66	Mercado Livre	https://route66cosmeticos.com.br/
+Royal.d	Beleza na Web	https://royaldcosmeticos.com.br/
+Royal Professional	Beleza na Web	https://royalprofessional.com.br/
+Roza Raiz Cosmeticos	Beleza na Web	https://rozaraiz.com.br/
+Rubelita Professional	Beleza na Web	https://rubelitaprofessional.com.br/
+Ruggero Cosmeticos	Beleza na Web	https://ruggerocosmeticos.com.br/
+Salles Profissional	Beleza na Web	https://sallesprofissional.com.br/
+Sallore	Beleza na Web	https://sallore.com.br/
+Salon Line	Beleza na Web	https://salonline.com.br/
+Salunat	Mercado Livre	https://salunat.com.br/
+Salvatore Cosmeticos	Beleza na Web	https://salvatore.com.br/
+Sanliss Profissional	Beleza na Web	https://sanliss.com.br/
+Seda	Beleza na Web	https://seda.com.br/
+Segredo Dela	Beleza na Web	https://segredodela.com.br/
+Senapack	Mercado Livre	https://senapack.com.br/
+Sense Brasil	Beleza na Web	https://sensebrasil.com.br/
+Shine Blue	Mercado Livre	https://shineblue.com.br/
+Sillage	Mercado Livre	https://sillage.com.br/
+Silone Hair	Beleza na Web	https://silonehair.com.br/
+Simbioze Amazonica	Beleza na Web	https://simbiozeamazonica.com.br/
+Simple B	Beleza na Web	https://simpleb.com.br/
+Skala	Beleza na Web	https://skala.com.br/
+Slide Cosmeticos	Beleza na Web	https://slidecosmeticos.com.br/
+Sobelle	Beleza na Web	https://sobelle.com.br/
+Sobrebarba	Beleza na Web	https://sobrebarba.com.br/
+Soft Hair	Beleza na Web	https://softhair.com.br/
+Sollido	Beleza na Web	https://sollido.com.br/
+Sorali Cosmetics	Beleza na Web	https://soralicosmetics.com.br/
+S.O.S Beleza Brasileira	Beleza na Web	https://sosbelezabrasileira.com.br/
+Sos Frizz	Beleza na Web	https://sosfrizz.com.br/
+Soul Care	Beleza na Web	https://soulcarecosmeticos.com.br/
+Soul Cosmeticos	Beleza na Web	https://soulcosmeticos.com.br/
+Soul Power	Beleza na Web	https://soulpowerbrasil.com.br/
+Soulta	Beleza na Web	https://soulta.com.br/
+Soupleliss Professional	Beleza na Web	https://soupleliss.com.br/
+SouthLiss Cosmeticos	Beleza na Web	https://southliss.com.br/
+Spa Cosmetics	Mercado Livre	https://spacosmetics.com.br/
+Stellar Beauty	Beleza na Web	https://stellarbeauty.com.br/
+Stijl	Beleza na Web	https://stijl.com.br/
+Strass	Beleza na Web	https://strass.com.br/
+Strattus	Mercado Livre	https://strattus.com.br/
+Strong Barber	Beleza na Web	https://strongbarber.com.br/
+Stuff Anti Frizz	Beleza na Web	https://stuffantifrizz.com.br/
+Superbia	Beleza na Web	https://superbia.com.br/
+Taiff	Beleza na Web	https://taiff.com.br/
+Teimoso	Beleza na Web	https://teimoso.com.br/
+Tekmi Cosmeticos	Beleza na Web	https://tekmi.com.br/
+Terumy Acessorios	Beleza na Web	https://terumy.com.br/
+Three Therapy	Beleza na Web	https://threetherapy.com.br/
+Tio Nacho	Beleza na Web	https://tionacho.com.br/
+Toplife Profissional	Beleza na Web	https://toplifeprofissional.com.br/
+Total Lissy	Beleza na Web	https://totallissy.com.br/
+Tra La La	Mercado Livre	https://tralalacosmeticos.com.br/
+TreeLiss Profissional	Beleza na Web	https://treeliss.com.br/
+Tri-Baum	Beleza na Web	https://tri-baum.com.br/
+Tridium Cosmeticos	Beleza na Web	https://tridiumcosmeticos.com.br/
+Triskle	Beleza na Web	https://trisklecosmeticos.com.br/
+Troia Hair Cosmetics	Beleza na Web	https://troiahair.com.br/
+TRUSS	Beleza na Web	https://truss.com.br/
+Tyrrel	Mercado Livre	https://tyrrelprofessional.com.br/
+Tzaha Professional	Beleza na Web	https://tzaha.com.br/
+Uhse	Beleza na Web	https://uhse.com.br/
+Up2You	Beleza na Web	https://up2you.com.br/
+Vancouver	Beleza na Web	https://vancouvercosmeticos.com.br/
+Ve de Verdade	Beleza na Web	https://vedeverdade.com.br/
+Vedis	Mercado Livre	https://vedis.com.br/
+Veggue Profissional	Beleza na Web	https://veggue.com.br/
+Veinira	Beleza na Web	https://veinira.com.br/
+Venceslaufarma	Mercado Livre	https://venceslaufarma.com.br/
+Venille Professional	Beleza na Web	https://venille.com.br/
+Verde Brasil Cosmeticos	Beleza na Web	https://verdebrasilcosmeticos.com.br/
+Verdena	Mercado Livre	https://verdena.com.br/
+Vertix	Beleza na Web	https://vertix.com.br/
+Via Aroma	Mercado Livre	https://viaaroma.com.br/
+Vicka Care	Beleza na Web	https://vickacare.com.br/
+Victoria Hair	Beleza na Web	https://victoriahair.com.br/
+Victorine Profissional	Beleza na Web	https://victorineprofissional.com.br/
+Vira Cosmeticos	Beleza na Web	https://viracosmeticos.com.br/
+Vita Seiva	Beleza na Web	https://vitaseiva.com.br/
+Vitaderm	Mercado Livre	https://vitaderm.com.br/
+Vitalab	Mercado Livre	https://vitalab.com.br/
+Vital X Repair Professional	Beleza na Web	https://vitalx.com.br/
+Vizcaya	Beleza na Web	https://vizcaya.com.br/
+Vizeme Cosmeticos	Beleza na Web	https://vizeme.com.br/
+Vizet	Beleza na Web	https://vizet.com.br/
+Voga	Mercado Livre	https://voga.com.br/
+WBeauty Cosmeticos	Beleza na Web	https://wbeautycosmeticos.com.br/
+Wellux Professional	Beleza na Web	https://wellux.com.br/
+Wess Professional	Beleza na Web	https://wessprofessional.com.br/
+Widi Care	Beleza na Web	https://widicare.com.br/
+World Queen	Beleza na Web	https://worldqueen.com.br/
+Yabae	Beleza na Web	https://yabae.com.br/
+Yama	Beleza na Web	https://yama.com.br/
+Yamy	Beleza na Web	https://yamycosmeticos.com.br/
+Yantra Cosmeticos	Mercado Livre	https://yantracosmeticos.com.br/
+Yasmin Beauty	Beleza na Web	https://yasminbeauty.com.br/
+YBERA PARIS	Beleza na Web	https://ybera.com.br/
+Yenzah	Beleza na Web	https://yenzah.com.br/
+Ykas	Beleza na Web	https://ykas.com.br/
+You Man Grooming	Beleza na Web	https://youmangrooming.com.br/
+YTREND	Beleza na Web	https://ytrend.com.br/
+Zaila Professional	Beleza na Web	https://zaila.com.br/
+Zap Cosmeticos	Mercado Livre	https://zapcosmeticos.com.br/
+Ziel Natural Cosmetics	Beleza na Web	https://zielcosmeticos.com.br/
+Zoca	Beleza na Web	https://zoca.com.br/
+Zuher Cosmeticos	Beleza na Web	https://zuher.com.br/

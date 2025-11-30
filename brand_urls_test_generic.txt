@@ -1,0 +1,4 @@
+# Teste do parser generico com sites variados
+Abela Cosmetics	Beleza na Web	https://www.lojaabelacosmetics.com/produtos/?mpage=3
+Lola From Rio	Beleza na Web	https://www.lolacosmetics.com.br/cabelos
+Salon Line	Beleza na Web	https://salonline.com.br/

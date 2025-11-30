@@ -1,0 +1,42 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Node
+node_modules/
+.npm
+.yarn
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+product-dashboard/dist/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Excel/JSON outputs (podem ser grandes)
+# Descomente se quiser ignorar os dados
+# produtos_capilares.xlsx
+# produtos_capilares.json
